@@ -1,0 +1,5 @@
+transaction_id,donor_name,email,amount,date,state
+101, JOHN DOE ,johndoe@email.com,50.00,2026-06-20,ca
+102,Jane Smith,jane.smith@email,100,06/21/2026,NY
+103,Alice Jones,,25.50,2026-06-22,TX
+104,Bob Brown,bob@brown.com,-10.00,2026-06-22,FL
